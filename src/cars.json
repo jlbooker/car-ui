@@ -1,0 +1,2552 @@
+[
+ {
+  "make": "Subaru",
+  "model": "Impreza WRX 4dr",
+  "origin": "Asia",
+  "type": "Sports"
+ },
+ {
+  "make": "Audi",
+  "model": "A4 1.8T 4dr",
+  "origin": "Europe",
+  "type": "Sedan"
+ },
+ {
+  "make": "Volvo",
+  "model": "V40",
+  "origin": "Europe",
+  "type": "Wagon"
+ },
+ {
+  "make": "GMC",
+  "model": "Sierra HD 2500",
+  "origin": "USA",
+  "type": "Truck"
+ },
+ {
+  "make": "Lexus",
+  "model": "IS 300 4dr auto",
+  "origin": "Asia",
+  "type": "Sedan"
+ },
+ {
+  "make": "Toyota",
+  "model": "Camry XLE V6 4dr",
+  "origin": "Asia",
+  "type": "Sedan"
+ },
+ {
+  "make": "GMC",
+  "model": "Envoy XUV SLE",
+  "origin": "USA",
+  "type": "SUV"
+ },
+ {
+  "make": "Ford",
+  "model": "Mustang 2dr (convertible)",
+  "origin": "USA",
+  "type": "Sports"
+ },
+ {
+  "make": "Honda",
+  "model": "S2000 convertible 2dr",
+  "origin": "Asia",
+  "type": "Sports"
+ },
+ {
+  "make": "Infiniti",
+  "model": "Q45 Luxury 4dr",
+  "origin": "Asia",
+  "type": "Sedan"
+ },
+ {
+  "make": "Hyundai",
+  "model": "XG350 4dr",
+  "origin": "Asia",
+  "type": "Sedan"
+ },
+ {
+  "make": "Toyota",
+  "model": "Highlander V6",
+  "origin": "Asia",
+  "type": "SUV"
+ },
+ {
+  "make": "Ford",
+  "model": "Taurus LX 4dr",
+  "origin": "USA",
+  "type": "Sedan"
+ },
+ {
+  "make": "Pontiac",
+  "model": "Sunfire 1SA 2dr",
+  "origin": "USA",
+  "type": "Sedan"
+ },
+ {
+  "make": "Lexus",
+  "model": "SC 430 convertible 2dr",
+  "origin": "Asia",
+  "type": "Sports"
+ },
+ {
+  "make": "Saturn",
+  "model": "L300-2 4dr",
+  "origin": "USA",
+  "type": "Sedan"
+ },
+ {
+  "make": "Infiniti",
+  "model": "G35 4dr",
+  "origin": "Asia",
+  "type": "Sedan"
+ },
+ {
+  "make": "Buick",
+  "model": "LeSabre Custom 4dr",
+  "origin": "USA",
+  "type": "Sedan"
+ },
+ {
+  "make": "Dodge",
+  "model": "Durango SLT",
+  "origin": "USA",
+  "type": "SUV"
+ },
+ {
+  "make": "Buick",
+  "model": "LeSabre Limited 4dr",
+  "origin": "USA",
+  "type": "Sedan"
+ },
+ {
+  "make": "Lexus",
+  "model": "GS 300 4dr",
+  "origin": "Asia",
+  "type": "Sedan"
+ },
+ {
+  "make": "BMW",
+  "model": "745i 4dr",
+  "origin": "Europe",
+  "type": "Sedan"
+ },
+ {
+  "make": "Mercedes-Benz",
+  "model": "S500 4dr",
+  "origin": "Europe",
+  "type": "Sedan"
+ },
+ {
+  "make": "Audi",
+  "model": "A6 3.0 4dr",
+  "origin": "Europe",
+  "type": "Sedan"
+ },
+ {
+  "make": "Chevrolet",
+  "model": "Impala LS 4dr",
+  "origin": "USA",
+  "type": "Sedan"
+ },
+ {
+  "make": "Suzuki",
+  "model": "Aerio LX 4dr",
+  "origin": "Asia",
+  "type": "Sedan"
+ },
+ {
+  "make": "Subaru",
+  "model": "Outback Limited Sedan 4dr",
+  "origin": "Asia",
+  "type": "Sedan"
+ },
+ {
+  "make": "Mitsubishi",
+  "model": "Outlander LS",
+  "origin": "Asia",
+  "type": "SUV"
+ },
+ {
+  "make": "Audi",
+  "model": "A4 3.0 Quattro 4dr manual",
+  "origin": "Europe",
+  "type": "Sedan"
+ },
+ {
+  "make": "BMW",
+  "model": "325i 4dr",
+  "origin": "Europe",
+  "type": "Sedan"
+ },
+ {
+  "make": "Toyota",
+  "model": "RAV4",
+  "origin": "Asia",
+  "type": "SUV"
+ },
+ {
+  "make": "Mercedes-Benz",
+  "model": "C32 AMG 4dr",
+  "origin": "Europe",
+  "type": "Sedan"
+ },
+ {
+  "make": "Chevrolet",
+  "model": "Monte Carlo SS 2dr",
+  "origin": "USA",
+  "type": "Sedan"
+ },
+ {
+  "make": "Mitsubishi",
+  "model": "Eclipse Spyder GT convertible 2dr",
+  "origin": "Asia",
+  "type": "Sports"
+ },
+ {
+  "make": "Toyota",
+  "model": "Avalon XL 4dr",
+  "origin": "Asia",
+  "type": "Sedan"
+ },
+ {
+  "make": "Saab",
+  "model": "9-5 Aero",
+  "origin": "Europe",
+  "type": "Wagon"
+ },
+ {
+  "make": "Volvo",
+  "model": "S60 2.5 4dr",
+  "origin": "Europe",
+  "type": "Sedan"
+ },
+ {
+  "make": "BMW",
+  "model": "X5 4.4i",
+  "origin": "Europe",
+  "type": "SUV"
+ },
+ {
+  "make": "Mercedes-Benz",
+  "model": "C230 Sport 2dr",
+  "origin": "Europe",
+  "type": "Sedan"
+ },
+ {
+  "make": "Subaru",
+  "model": "Impreza WRX STi 4dr",
+  "origin": "Asia",
+  "type": "Sports"
+ },
+ {
+  "make": "Subaru",
+  "model": "Baja",
+  "origin": "Asia",
+  "type": "Truck"
+ },
+ {
+  "make": "Dodge",
+  "model": "Dakota Regular Cab",
+  "origin": "USA",
+  "type": "Truck"
+ },
+ {
+  "make": "Dodge",
+  "model": "Intrepid ES 4dr",
+  "origin": "USA",
+  "type": "Sedan"
+ },
+ {
+  "make": "Toyota",
+  "model": "Camry LE 4dr",
+  "origin": "Asia",
+  "type": "Sedan"
+ },
+ {
+  "make": "Volvo",
+  "model": "XC90 T6",
+  "origin": "Europe",
+  "type": "SUV"
+ },
+ {
+  "make": "Dodge",
+  "model": "Stratus SE 4dr",
+  "origin": "USA",
+  "type": "Sedan"
+ },
+ {
+  "make": "Volkswagen",
+  "model": "New Beetle GLS 1.8T 2dr",
+  "origin": "Europe",
+  "type": "Sedan"
+ },
+ {
+  "make": "Jaguar",
+  "model": "S-Type R 4dr",
+  "origin": "Europe",
+  "type": "Sedan"
+ },
+ {
+  "make": "Audi",
+  "model": "TT 3.2 coupe 2dr (convertible)",
+  "origin": "Europe",
+  "type": "Sports"
+ },
+ {
+  "make": "Ford",
+  "model": "Crown Victoria LX 4dr",
+  "origin": "USA",
+  "type": "Sedan"
+ },
+ {
+  "make": "Ford",
+  "model": "Thunderbird Deluxe convert w/hardtop 2d",
+  "origin": "USA",
+  "type": "Sports"
+ },
+ {
+  "make": "Cadillac",
+  "model": "Escalade",
+  "origin": "USA",
+  "type": "SUV"
+ },
+ {
+  "make": "Kia",
+  "model": "Rio Cinco",
+  "origin": "Asia",
+  "type": "Wagon"
+ },
+ {
+  "make": "Dodge",
+  "model": "Viper SRT-10 convertible 2dr",
+  "origin": "USA",
+  "type": "Sports"
+ },
+ {
+  "make": "Mercedes-Benz",
+  "model": "G500",
+  "origin": "Europe",
+  "type": "SUV"
+ },
+ {
+  "make": "Buick",
+  "model": "Regal GS 4dr",
+  "origin": "USA",
+  "type": "Sedan"
+ },
+ {
+  "make": "Mercedes-Benz",
+  "model": "S430 4dr",
+  "origin": "Europe",
+  "type": "Sedan"
+ },
+ {
+  "make": "Nissan",
+  "model": "Altima SE 4dr",
+  "origin": "Asia",
+  "type": "Sedan"
+ },
+ {
+  "make": "Porsche",
+  "model": "Cayenne S",
+  "origin": "Europe",
+  "type": "SUV"
+ },
+ {
+  "make": "Mercedes-Benz",
+  "model": "CLK500 coupe 2dr (convertible)",
+  "origin": "Europe",
+  "type": "Sedan"
+ },
+ {
+  "make": "Ford",
+  "model": "Explorer XLT V6",
+  "origin": "USA",
+  "type": "SUV"
+ },
+ {
+  "make": "Pontiac",
+  "model": "Grand Prix GT1 4dr",
+  "origin": "USA",
+  "type": "Sedan"
+ },
+ {
+  "make": "Toyota",
+  "model": "Land Cruiser",
+  "origin": "Asia",
+  "type": "SUV"
+ },
+ {
+  "make": "Mazda",
+  "model": "Tribute DX 2.0",
+  "origin": "Asia",
+  "type": "SUV"
+ },
+ {
+  "make": "Cadillac",
+  "model": "Seville SLS 4dr",
+  "origin": "USA",
+  "type": "Sedan"
+ },
+ {
+  "make": "Mercury",
+  "model": "Monterey Luxury",
+  "origin": "USA",
+  "type": "Sedan"
+ },
+ {
+  "make": "Chrysler",
+  "model": "PT Cruiser Limited 4dr",
+  "origin": "USA",
+  "type": "Sedan"
+ },
+ {
+  "make": "BMW",
+  "model": "325Ci 2dr",
+  "origin": "Europe",
+  "type": "Sedan"
+ },
+ {
+  "make": "Mitsubishi",
+  "model": "Eclipse GTS 2dr",
+  "origin": "Asia",
+  "type": "Sports"
+ },
+ {
+  "make": "Jaguar",
+  "model": "XKR coupe 2dr",
+  "origin": "Europe",
+  "type": "Sports"
+ },
+ {
+  "make": "Toyota",
+  "model": "Tacoma",
+  "origin": "Asia",
+  "type": "Truck"
+ },
+ {
+  "make": "Lexus",
+  "model": "LS 430 4dr",
+  "origin": "Asia",
+  "type": "Sedan"
+ },
+ {
+  "make": "Volkswagen",
+  "model": "New Beetle GLS convertible 2dr",
+  "origin": "Europe",
+  "type": "Sedan"
+ },
+ {
+  "make": "Honda",
+  "model": "Accord LX V6 4dr",
+  "origin": "Asia",
+  "type": "Sedan"
+ },
+ {
+  "make": "Oldsmobile",
+  "model": "Silhouette GL",
+  "origin": "USA",
+  "type": "Sedan"
+ },
+ {
+  "make": "GMC",
+  "model": "Yukon XL 2500 SLT",
+  "origin": "USA",
+  "type": "SUV"
+ },
+ {
+  "make": "Lexus",
+  "model": "LX 470",
+  "origin": "Asia",
+  "type": "SUV"
+ },
+ {
+  "make": "Lincoln",
+  "model": "Navigator Luxury",
+  "origin": "USA",
+  "type": "SUV"
+ },
+ {
+  "make": "Buick",
+  "model": "Regal LS 4dr",
+  "origin": "USA",
+  "type": "Sedan"
+ },
+ {
+  "make": "Pontiac",
+  "model": "Grand Am GT 2dr",
+  "origin": "USA",
+  "type": "Sedan"
+ },
+ {
+  "make": "Honda",
+  "model": "Accord EX V6 2dr",
+  "origin": "Asia",
+  "type": "Sedan"
+ },
+ {
+  "make": "Hyundai",
+  "model": "Accent GL 4dr",
+  "origin": "Asia",
+  "type": "Sedan"
+ },
+ {
+  "make": "Subaru",
+  "model": "Forester X",
+  "origin": "Asia",
+  "type": "Wagon"
+ },
+ {
+  "make": "Dodge",
+  "model": "Ram 1500 Regular Cab ST",
+  "origin": "USA",
+  "type": "Truck"
+ },
+ {
+  "make": "Subaru",
+  "model": "Outback H-6 VDC 4dr",
+  "origin": "Asia",
+  "type": "Sedan"
+ },
+ {
+  "make": "Kia",
+  "model": "Optima LX V6 4dr",
+  "origin": "Asia",
+  "type": "Sedan"
+ },
+ {
+  "make": "Mitsubishi",
+  "model": "Galant GTS 4dr",
+  "origin": "Asia",
+  "type": "Sedan"
+ },
+ {
+  "make": "Mazda",
+  "model": "Mazda6 i 4dr",
+  "origin": "Asia",
+  "type": "Sedan"
+ },
+ {
+  "make": "Acura",
+  "model": "TSX 4dr",
+  "origin": "Asia",
+  "type": "Sedan"
+ },
+ {
+  "make": "Kia",
+  "model": "Optima LX 4dr",
+  "origin": "Asia",
+  "type": "Sedan"
+ },
+ {
+  "make": "Audi",
+  "model": "TT 1.8 convertible 2dr (coupe)",
+  "origin": "Europe",
+  "type": "Sports"
+ },
+ {
+  "make": "Jaguar",
+  "model": "XJ8 4dr",
+  "origin": "Europe",
+  "type": "Sedan"
+ },
+ {
+  "make": "Chrysler",
+  "model": "Sebring Touring 4dr",
+  "origin": "USA",
+  "type": "Sedan"
+ },
+ {
+  "make": "Acura",
+  "model": "RSX Type S 2dr",
+  "origin": "Asia",
+  "type": "Sedan"
+ },
+ {
+  "make": "Hyundai",
+  "model": "Santa Fe GLS",
+  "origin": "Asia",
+  "type": "SUV"
+ },
+ {
+  "make": "BMW",
+  "model": "545iA 4dr",
+  "origin": "Europe",
+  "type": "Sedan"
+ },
+ {
+  "make": "Mitsubishi",
+  "model": "Lancer LS 4dr",
+  "origin": "Asia",
+  "type": "Sedan"
+ },
+ {
+  "make": "Volkswagen",
+  "model": "Passat W8 4MOTION 4dr",
+  "origin": "Europe",
+  "type": "Sedan"
+ },
+ {
+  "make": "Mazda",
+  "model": "Mazda3 s 4dr",
+  "origin": "Asia",
+  "type": "Sedan"
+ },
+ {
+  "make": "BMW",
+  "model": "330i 4dr",
+  "origin": "Europe",
+  "type": "Sedan"
+ },
+ {
+  "make": "Chrysler",
+  "model": "PT Cruiser 4dr",
+  "origin": "USA",
+  "type": "Sedan"
+ },
+ {
+  "make": "Mitsubishi",
+  "model": "Lancer ES 4dr",
+  "origin": "Asia",
+  "type": "Sedan"
+ },
+ {
+  "make": "Hummer",
+  "model": "H2",
+  "origin": "USA",
+  "type": "SUV"
+ },
+ {
+  "make": "Volkswagen",
+  "model": "Passat GLX V6 4MOTION 4dr",
+  "origin": "Europe",
+  "type": "Sedan"
+ },
+ {
+  "make": "Jaguar",
+  "model": "S-Type 3.0 4dr",
+  "origin": "Europe",
+  "type": "Sedan"
+ },
+ {
+  "make": "Oldsmobile",
+  "model": "Alero GLS 2dr",
+  "origin": "USA",
+  "type": "Sedan"
+ },
+ {
+  "make": "Jaguar",
+  "model": "S-Type 4.2 4dr",
+  "origin": "Europe",
+  "type": "Sedan"
+ },
+ {
+  "make": "Mercedes-Benz",
+  "model": "SL500 convertible 2dr",
+  "origin": "Europe",
+  "type": "Sports"
+ },
+ {
+  "make": "Lexus",
+  "model": "IS 300 4dr manual",
+  "origin": "Asia",
+  "type": "Sedan"
+ },
+ {
+  "make": "BMW",
+  "model": "530i 4dr",
+  "origin": "Europe",
+  "type": "Sedan"
+ },
+ {
+  "make": "BMW",
+  "model": "M3 convertible 2dr",
+  "origin": "Europe",
+  "type": "Sports"
+ },
+ {
+  "make": "Chrysler",
+  "model": "Concorde LX 4dr",
+  "origin": "USA",
+  "type": "Sedan"
+ },
+ {
+  "make": "BMW",
+  "model": "330Ci convertible 2dr",
+  "origin": "Europe",
+  "type": "Sedan"
+ },
+ {
+  "make": "Jaguar",
+  "model": "XK8 coupe 2dr",
+  "origin": "Europe",
+  "type": "Sports"
+ },
+ {
+  "make": "Buick",
+  "model": "Rendezvous CX",
+  "origin": "USA",
+  "type": "SUV"
+ },
+ {
+  "make": "Hyundai",
+  "model": "Tiburon GT V6 2dr",
+  "origin": "Asia",
+  "type": "Sports"
+ },
+ {
+  "make": "Volvo",
+  "model": "C70 HPT convertible 2dr",
+  "origin": "Europe",
+  "type": "Sedan"
+ },
+ {
+  "make": "Honda",
+  "model": "Civic EX 4dr",
+  "origin": "Asia",
+  "type": "Sedan"
+ },
+ {
+  "make": "Saturn",
+  "model": "lon2 4dr",
+  "origin": "USA",
+  "type": "Sedan"
+ },
+ {
+  "make": "Pontiac",
+  "model": "Bonneville GXP 4dr",
+  "origin": "USA",
+  "type": "Sedan"
+ },
+ {
+  "make": "Toyota",
+  "model": "Echo 4dr",
+  "origin": "Asia",
+  "type": "Sedan"
+ },
+ {
+  "make": "Saturn",
+  "model": "lon3 quad coupe 2dr",
+  "origin": "USA",
+  "type": "Sedan"
+ },
+ {
+  "make": "Chevrolet",
+  "model": "Colorado Z85",
+  "origin": "USA",
+  "type": "Truck"
+ },
+ {
+  "make": "Toyota",
+  "model": "Corolla S 4dr",
+  "origin": "Asia",
+  "type": "Sedan"
+ },
+ {
+  "make": "Dodge",
+  "model": "Neon SE 4dr",
+  "origin": "USA",
+  "type": "Sedan"
+ },
+ {
+  "make": "Saturn",
+  "model": "lon3 4dr",
+  "origin": "USA",
+  "type": "Sedan"
+ },
+ {
+  "make": "Toyota",
+  "model": "Sequoia SR5",
+  "origin": "Asia",
+  "type": "SUV"
+ },
+ {
+  "make": "Toyota",
+  "model": "Camry LE V6 4dr",
+  "origin": "Asia",
+  "type": "Sedan"
+ },
+ {
+  "make": "Hyundai",
+  "model": "Sonata LX 4dr",
+  "origin": "Asia",
+  "type": "Sedan"
+ },
+ {
+  "make": "Subaru",
+  "model": "Outback",
+  "origin": "Asia",
+  "type": "Wagon"
+ },
+ {
+  "make": "Toyota",
+  "model": "Matrix XR",
+  "origin": "Asia",
+  "type": "Wagon"
+ },
+ {
+  "make": "Volvo",
+  "model": "S80 T6 4dr",
+  "origin": "Europe",
+  "type": "Sedan"
+ },
+ {
+  "make": "Honda",
+  "model": "Pilot LX",
+  "origin": "Asia",
+  "type": "SUV"
+ },
+ {
+  "make": "BMW",
+  "model": "325Ci convertible 2dr",
+  "origin": "Europe",
+  "type": "Sedan"
+ },
+ {
+  "make": "Saab",
+  "model": "9-5 Aero 4dr",
+  "origin": "Europe",
+  "type": "Sedan"
+ },
+ {
+  "make": "Audi",
+  "model": "S4 Quattro 4dr",
+  "origin": "Europe",
+  "type": "Sedan"
+ },
+ {
+  "make": "Nissan",
+  "model": "Altima S 4dr",
+  "origin": "Asia",
+  "type": "Sedan"
+ },
+ {
+  "make": "Suzuki",
+  "model": "Aeno S 4dr",
+  "origin": "Asia",
+  "type": "Sedan"
+ },
+ {
+  "make": "Ford",
+  "model": "Focus ZX3 2dr hatch",
+  "origin": "USA",
+  "type": "Sedan"
+ },
+ {
+  "make": "Scion",
+  "model": "xB",
+  "origin": "Asia",
+  "type": "Wagon"
+ },
+ {
+  "make": "Porsche",
+  "model": "Boxster S convertible 2dr",
+  "origin": "Europe",
+  "type": "Sports"
+ },
+ {
+  "make": "Chevrolet",
+  "model": "SSR",
+  "origin": "USA",
+  "type": "Truck"
+ },
+ {
+  "make": "Land Rover",
+  "model": "Freelander SE",
+  "origin": "Europe",
+  "type": "SUV"
+ },
+ {
+  "make": "Audi",
+  "model": "A41.8T convertible 2dr",
+  "origin": "Europe",
+  "type": "Sedan"
+ },
+ {
+  "make": "Toyota",
+  "model": "Tundra Access Cab V6 SR5",
+  "origin": "Asia",
+  "type": "Truck"
+ },
+ {
+  "make": "Dodge",
+  "model": "Caravan SE",
+  "origin": "USA",
+  "type": "Sedan"
+ },
+ {
+  "make": "Toyota",
+  "model": "Avalon XLS 4dr",
+  "origin": "Asia",
+  "type": "Sedan"
+ },
+ {
+  "make": "Infiniti",
+  "model": "G35 Sport Coupe 2dr",
+  "origin": "Asia",
+  "type": "Sedan"
+ },
+ {
+  "make": "Hyundai",
+  "model": "Elantra GLS 4dr",
+  "origin": "Asia",
+  "type": "Sedan"
+ },
+ {
+  "make": "Jaguar",
+  "model": "X-Type 3.0 4dr",
+  "origin": "Europe",
+  "type": "Sedan"
+ },
+ {
+  "make": "Cadillac",
+  "model": "Deville DTS 4dr",
+  "origin": "USA",
+  "type": "Sedan"
+ },
+ {
+  "make": "Lincoln",
+  "model": "LS V6 Premium 4dr",
+  "origin": "USA",
+  "type": "Sedan"
+ },
+ {
+  "make": "Nissan",
+  "model": "Murano SL",
+  "origin": "Asia",
+  "type": "Wagon"
+ },
+ {
+  "make": "Chrysler",
+  "model": "300M 4dr",
+  "origin": "USA",
+  "type": "Sedan"
+ },
+ {
+  "make": "Hyundai",
+  "model": "Accent 2dr hatch",
+  "origin": "Asia",
+  "type": "Sedan"
+ },
+ {
+  "make": "Cadillac",
+  "model": "SRX V8",
+  "origin": "USA",
+  "type": "SUV"
+ },
+ {
+  "make": "Hyundai",
+  "model": "Sonata GLS 4dr",
+  "origin": "Asia",
+  "type": "Sedan"
+ },
+ {
+  "make": "Toyota",
+  "model": "Camry Solara SE 2dr",
+  "origin": "Asia",
+  "type": "Sedan"
+ },
+ {
+  "make": "Volkswagen",
+  "model": "GTI 1.8T 2dr hatch",
+  "origin": "Europe",
+  "type": "Sedan"
+ },
+ {
+  "make": "Hyundai",
+  "model": "Elantra GT 4dr hatch",
+  "origin": "Asia",
+  "type": "Sedan"
+ },
+ {
+  "make": "Ford",
+  "model": "Taurus SES Duratec 4dr",
+  "origin": "USA",
+  "type": "Sedan"
+ },
+ {
+  "make": "Mercedes-Benz",
+  "model": "C320 Sport 2dr",
+  "origin": "Europe",
+  "type": "Sedan"
+ },
+ {
+  "make": "Volkswagen",
+  "model": "Jetta GLS TDI 4dr",
+  "origin": "Europe",
+  "type": "Sedan"
+ },
+ {
+  "make": "Honda",
+  "model": "Civic LX 4dr",
+  "origin": "Asia",
+  "type": "Sedan"
+ },
+ {
+  "make": "Audi",
+  "model": "A4 3.0 Quattro convertible 2dr",
+  "origin": "Europe",
+  "type": "Sedan"
+ },
+ {
+  "make": "Ford",
+  "model": "Freestar SE",
+  "origin": "USA",
+  "type": "Sedan"
+ },
+ {
+  "make": "Dodge",
+  "model": "Intrepid SE 4dr",
+  "origin": "USA",
+  "type": "Sedan"
+ },
+ {
+  "make": "Ford",
+  "model": "Escape XLS",
+  "origin": "USA",
+  "type": "SUV"
+ },
+ {
+  "make": "Kia",
+  "model": "Rio 4dr auto",
+  "origin": "Asia",
+  "type": "Sedan"
+ },
+ {
+  "make": "Suzuki",
+  "model": "XL-7 EX",
+  "origin": "Asia",
+  "type": "SUV"
+ },
+ {
+  "make": "Kia",
+  "model": "Sedona LX",
+  "origin": "Asia",
+  "type": "Sedan"
+ },
+ {
+  "make": "Chevrolet",
+  "model": "Tahoe LT",
+  "origin": "USA",
+  "type": "SUV"
+ },
+ {
+  "make": "Chrysler",
+  "model": "PT Cruiser GT 4dr",
+  "origin": "USA",
+  "type": "Sedan"
+ },
+ {
+  "make": "Chevrolet",
+  "model": "Silverado SS",
+  "origin": "USA",
+  "type": "Truck"
+ },
+ {
+  "make": "Kia",
+  "model": "Rio 4dr manual",
+  "origin": "Asia",
+  "type": "Sedan"
+ },
+ {
+  "make": "Audi",
+  "model": "A6 3.0 Avant Quattro",
+  "origin": "Europe",
+  "type": "Wagon"
+ },
+ {
+  "make": "Nissan",
+  "model": "Pathfinder SE",
+  "origin": "Asia",
+  "type": "SUV"
+ },
+ {
+  "make": "Hyundai",
+  "model": "Accent GT 2dr hatch",
+  "origin": "Asia",
+  "type": "Sedan"
+ },
+ {
+  "make": "Mitsubishi",
+  "model": "Endeavor XLS",
+  "origin": "Asia",
+  "type": "SUV"
+ },
+ {
+  "make": "Mercedes-Benz",
+  "model": "C240",
+  "origin": "Europe",
+  "type": "Wagon"
+ },
+ {
+  "make": "Kia",
+  "model": "Amanti 4dr",
+  "origin": "Asia",
+  "type": "Sedan"
+ },
+ {
+  "make": "Toyota",
+  "model": "Sienna CE",
+  "origin": "Asia",
+  "type": "Sedan"
+ },
+ {
+  "make": "Jaguar",
+  "model": "XKR convertible 2dr",
+  "origin": "Europe",
+  "type": "Sports"
+ },
+ {
+  "make": "Subaru",
+  "model": "Legacy L 4dr",
+  "origin": "Asia",
+  "type": "Sedan"
+ },
+ {
+  "make": "GMC",
+  "model": "Sonoma Crew Cab",
+  "origin": "USA",
+  "type": "Truck"
+ },
+ {
+  "make": "Dodge",
+  "model": "Neon SXT 4dr",
+  "origin": "USA",
+  "type": "Sedan"
+ },
+ {
+  "make": "Volvo",
+  "model": "S60 R 4dr",
+  "origin": "Europe",
+  "type": "Sedan"
+ },
+ {
+  "make": "Mercedes-Benz",
+  "model": "CL500 2dr",
+  "origin": "Europe",
+  "type": "Sedan"
+ },
+ {
+  "make": "Mercedes-Benz",
+  "model": "E320",
+  "origin": "Europe",
+  "type": "Wagon"
+ },
+ {
+  "make": "Cadillac",
+  "model": "CTS VVT 4dr",
+  "origin": "USA",
+  "type": "Sedan"
+ },
+ {
+  "make": "Saturn",
+  "model": "L300 2",
+  "origin": "USA",
+  "type": "Wagon"
+ },
+ {
+  "make": "Mazda",
+  "model": "B2300 SX Regular Cab",
+  "origin": "Asia",
+  "type": "Truck"
+ },
+ {
+  "make": "Mitsubishi",
+  "model": "Lancer OZ Rally 4dr auto",
+  "origin": "Asia",
+  "type": "Sedan"
+ },
+ {
+  "make": "Chevrolet",
+  "model": "Malibu LT 4dr",
+  "origin": "USA",
+  "type": "Sedan"
+ },
+ {
+  "make": "Chrysler",
+  "model": "Sebring convertible 2dr",
+  "origin": "USA",
+  "type": "Sedan"
+ },
+ {
+  "make": "Audi",
+  "model": "A6 2.7 Turbo Quattro 4dr",
+  "origin": "Europe",
+  "type": "Sedan"
+ },
+ {
+  "make": "Chevrolet",
+  "model": "TrailBlazer LT",
+  "origin": "USA",
+  "type": "SUV"
+ },
+ {
+  "make": "Saab",
+  "model": "9-5 Arc 4dr",
+  "origin": "Europe",
+  "type": "Sedan"
+ },
+ {
+  "make": "Isuzu",
+  "model": "Ascender S",
+  "origin": "Asia",
+  "type": "SUV"
+ },
+ {
+  "make": "Chevrolet",
+  "model": "Aveo LS 4dr hatch",
+  "origin": "USA",
+  "type": "Sedan"
+ },
+ {
+  "make": "Mercedes-Benz",
+  "model": "ML500",
+  "origin": "Europe",
+  "type": "SUV"
+ },
+ {
+  "make": "BMW",
+  "model": "325xi Sport",
+  "origin": "Europe",
+  "type": "Wagon"
+ },
+ {
+  "make": "Nissan",
+  "model": "Maxima SE 4dr",
+  "origin": "Asia",
+  "type": "Sedan"
+ },
+ {
+  "make": "Kia",
+  "model": "Sorento LX",
+  "origin": "Asia",
+  "type": "SUV"
+ },
+ {
+  "make": "Jeep",
+  "model": "Grand Cherokee Laredo",
+  "origin": "USA",
+  "type": "SUV"
+ },
+ {
+  "make": "Chevrolet",
+  "model": "Malibu Maxx LS",
+  "origin": "USA",
+  "type": "Wagon"
+ },
+ {
+  "make": "Lexus",
+  "model": "IS 300 SportCross",
+  "origin": "Asia",
+  "type": "Wagon"
+ },
+ {
+  "make": "Mercedes-Benz",
+  "model": "CLK320 coupe 2dr (convertible)",
+  "origin": "Europe",
+  "type": "Sedan"
+ },
+ {
+  "make": "Toyota",
+  "model": "4Runner SR5 V6",
+  "origin": "Asia",
+  "type": "SUV"
+ },
+ {
+  "make": "Nissan",
+  "model": "Titan King Cab XE",
+  "origin": "Asia",
+  "type": "Truck"
+ },
+ {
+  "make": "Buick",
+  "model": "Park Avenue Ultra 4dr",
+  "origin": "USA",
+  "type": "Sedan"
+ },
+ {
+  "make": "Chevrolet",
+  "model": "Impala SS 4dr",
+  "origin": "USA",
+  "type": "Sedan"
+ },
+ {
+  "make": "GMC",
+  "model": "Canyon Z85 SL Regular Cab",
+  "origin": "USA",
+  "type": "Truck"
+ },
+ {
+  "make": "Chevrolet",
+  "model": "Cavalier 4dr",
+  "origin": "USA",
+  "type": "Sedan"
+ },
+ {
+  "make": "Toyota",
+  "model": "MR2 Spyder convertible 2dr",
+  "origin": "Asia",
+  "type": "Sports"
+ },
+ {
+  "make": "Honda",
+  "model": "Civic HX 2dr",
+  "origin": "Asia",
+  "type": "Sedan"
+ },
+ {
+  "make": "Mercury",
+  "model": "Sable GS",
+  "origin": "USA",
+  "type": "Wagon"
+ },
+ {
+  "make": "Saturn",
+  "model": "VUE",
+  "origin": "USA",
+  "type": "SUV"
+ },
+ {
+  "make": "Jeep",
+  "model": "Liberty Sport",
+  "origin": "USA",
+  "type": "SUV"
+ },
+ {
+  "make": "Lincoln",
+  "model": "LS V8 Ultimate 4dr",
+  "origin": "USA",
+  "type": "Sedan"
+ },
+ {
+  "make": "Honda",
+  "model": "Odyssey EX",
+  "origin": "Asia",
+  "type": "Sedan"
+ },
+ {
+  "make": "Lexus",
+  "model": "GX 470",
+  "origin": "Asia",
+  "type": "SUV"
+ },
+ {
+  "make": "BMW",
+  "model": "745Li 4dr",
+  "origin": "Europe",
+  "type": "Sedan"
+ },
+ {
+  "make": "Acura",
+  "model": "MDX",
+  "origin": "Asia",
+  "type": "SUV"
+ },
+ {
+  "make": "Mazda",
+  "model": "RX-8 4dr automatic",
+  "origin": "Asia",
+  "type": "Sports"
+ },
+ {
+  "make": "Infiniti",
+  "model": "FX35",
+  "origin": "Asia",
+  "type": "Wagon"
+ },
+ {
+  "make": "Lincoln",
+  "model": "Town Car Ultimate 4dr",
+  "origin": "USA",
+  "type": "Sedan"
+ },
+ {
+  "make": "Chrysler",
+  "model": "Concorde LXi 4dr",
+  "origin": "USA",
+  "type": "Sedan"
+ },
+ {
+  "make": "Acura",
+  "model": "3.5 RL w/Navigation 4dr",
+  "origin": "Asia",
+  "type": "Sedan"
+ },
+ {
+  "make": "Toyota",
+  "model": "Camry Solara SLE V6 2dr",
+  "origin": "Asia",
+  "type": "Sedan"
+ },
+ {
+  "make": "Mercury",
+  "model": "Grand Marquis LS Ultimate 4dr",
+  "origin": "USA",
+  "type": "Sedan"
+ },
+ {
+  "make": "Jeep",
+  "model": "Wrangler Sahara convertible 2dr",
+  "origin": "USA",
+  "type": "SUV"
+ },
+ {
+  "make": "Chevrolet",
+  "model": "Astro",
+  "origin": "USA",
+  "type": "Sedan"
+ },
+ {
+  "make": "Lincoln",
+  "model": "Town Car Ultimate L 4dr",
+  "origin": "USA",
+  "type": "Sedan"
+ },
+ {
+  "make": "Porsche",
+  "model": "911 Carrera convertible 2dr (coupe)",
+  "origin": "Europe",
+  "type": "Sports"
+ },
+ {
+  "make": "Suzuki",
+  "model": "Verona LX 4dr",
+  "origin": "Asia",
+  "type": "Sedan"
+ },
+ {
+  "make": "Honda",
+  "model": "Accord EX 2dr",
+  "origin": "Asia",
+  "type": "Sedan"
+ },
+ {
+  "make": "Chevrolet",
+  "model": "Tracker",
+  "origin": "USA",
+  "type": "SUV"
+ },
+ {
+  "make": "Saturn",
+  "model": "Ion1 4dr",
+  "origin": "USA",
+  "type": "Sedan"
+ },
+ {
+  "make": "Mitsubishi",
+  "model": "Lancer Sportback LS",
+  "origin": "Asia",
+  "type": "Wagon"
+ },
+ {
+  "make": "Dodge",
+  "model": "Stratus SXT 4dr",
+  "origin": "USA",
+  "type": "Sedan"
+ },
+ {
+  "make": "Audi",
+  "model": "A4 3.0 Quattro 4dr auto",
+  "origin": "Europe",
+  "type": "Sedan"
+ },
+ {
+  "make": "Honda",
+  "model": "Civic Hybrid 4dr manual (gas/electric)",
+  "origin": "Asia",
+  "type": "Hybrid"
+ },
+ {
+  "make": "Saturn",
+  "model": "lon2 quad coupe 2dr",
+  "origin": "USA",
+  "type": "Sedan"
+ },
+ {
+  "make": "Kia",
+  "model": "Spectra 4dr",
+  "origin": "Asia",
+  "type": "Sedan"
+ },
+ {
+  "make": "Infiniti",
+  "model": "I35 4dr",
+  "origin": "Asia",
+  "type": "Sedan"
+ },
+ {
+  "make": "MINI",
+  "model": "Cooper S",
+  "origin": "Europe",
+  "type": "Sedan"
+ },
+ {
+  "make": "Saab",
+  "model": "9-3 Aero convertible 2dr",
+  "origin": "Europe",
+  "type": "Sedan"
+ },
+ {
+  "make": "Toyota",
+  "model": "Camry Solara SE V6 2dr",
+  "origin": "Asia",
+  "type": "Sedan"
+ },
+ {
+  "make": "Mazda",
+  "model": "MPV ES",
+  "origin": "Asia",
+  "type": "Sedan"
+ },
+ {
+  "make": "Pontiac",
+  "model": "Aztekt",
+  "origin": "USA",
+  "type": "SUV"
+ },
+ {
+  "make": "Isuzu",
+  "model": "Rodeo S",
+  "origin": "Asia",
+  "type": "SUV"
+ },
+ {
+  "make": "Mercedes-Benz",
+  "model": "E500 4dr",
+  "origin": "Europe",
+  "type": "Sedan"
+ },
+ {
+  "make": "Mazda",
+  "model": "B4000 SE Cab Plus",
+  "origin": "Asia",
+  "type": "Truck"
+ },
+ {
+  "make": "Nissan",
+  "model": "Sentra SE-R 4dr",
+  "origin": "Asia",
+  "type": "Sedan"
+ },
+ {
+  "make": "Honda",
+  "model": "Element LX",
+  "origin": "Asia",
+  "type": "SUV"
+ },
+ {
+  "make": "Chevrolet",
+  "model": "Silverado 1500 Regular Cab",
+  "origin": "USA",
+  "type": "Truck"
+ },
+ {
+  "make": "Mercedes-Benz",
+  "model": "CL600 2dr",
+  "origin": "Europe",
+  "type": "Sedan"
+ },
+ {
+  "make": "Porsche",
+  "model": "Boxster convertible 2dr",
+  "origin": "Europe",
+  "type": "Sports"
+ },
+ {
+  "make": "Volkswagen",
+  "model": "Phaeton 4dr",
+  "origin": "Europe",
+  "type": "Sedan"
+ },
+ {
+  "make": "Lincoln",
+  "model": "Town Car Signature 4dr",
+  "origin": "USA",
+  "type": "Sedan"
+ },
+ {
+  "make": "Mercedes-Benz",
+  "model": "C240 4dr",
+  "origin": "Europe",
+  "type": "Sedan"
+ },
+ {
+  "make": "Jaguar",
+  "model": "X-Type 2.5 4dr",
+  "origin": "Europe",
+  "type": "Sedan"
+ },
+ {
+  "make": "Nissan",
+  "model": "Pathfinder Armada SE",
+  "origin": "Asia",
+  "type": "SUV"
+ },
+ {
+  "make": "Mercury",
+  "model": "Grand Marquis GS 4dr",
+  "origin": "USA",
+  "type": "Sedan"
+ },
+ {
+  "make": "Chevrolet",
+  "model": "Aveo 4dr",
+  "origin": "USA",
+  "type": "Sedan"
+ },
+ {
+  "make": "Acura",
+  "model": "3.5 RL 4dr",
+  "origin": "Asia",
+  "type": "Sedan"
+ },
+ {
+  "make": "Volkswagen",
+  "model": "Jetta GL",
+  "origin": "Europe",
+  "type": "Wagon"
+ },
+ {
+  "make": "Pontiac",
+  "model": "Vibe",
+  "origin": "USA",
+  "type": "Wagon"
+ },
+ {
+  "make": "Kia",
+  "model": "Spectra GS 4dr hatch",
+  "origin": "Asia",
+  "type": "Sedan"
+ },
+ {
+  "make": "Mercedes-Benz",
+  "model": "E320 4dr",
+  "origin": "Europe",
+  "type": "Sedan"
+ },
+ {
+  "make": "Land Rover",
+  "model": "Range Rover HSE",
+  "origin": "Europe",
+  "type": "SUV"
+ },
+ {
+  "make": "MINI",
+  "model": "Cooper",
+  "origin": "Europe",
+  "type": "Sedan"
+ },
+ {
+  "make": "Mercury",
+  "model": "Marauder 4dr",
+  "origin": "USA",
+  "type": "Sedan"
+ },
+ {
+  "make": "Toyota",
+  "model": "Corolla LE 4dr",
+  "origin": "Asia",
+  "type": "Sedan"
+ },
+ {
+  "make": "Ford",
+  "model": "Mustang GT Premium convertible 2dr",
+  "origin": "USA",
+  "type": "Sports"
+ },
+ {
+  "make": "Honda",
+  "model": "CR-V LX",
+  "origin": "Asia",
+  "type": "SUV"
+ },
+ {
+  "make": "Ford",
+  "model": "Crown Victoria LX Sport 4dr",
+  "origin": "USA",
+  "type": "Sedan"
+ },
+ {
+  "make": "Honda",
+  "model": "Odyssey LX",
+  "origin": "Asia",
+  "type": "Sedan"
+ },
+ {
+  "make": "Chrysler",
+  "model": "Town and Country Limited",
+  "origin": "USA",
+  "type": "Sedan"
+ },
+ {
+  "make": "Acura",
+  "model": "NSX coupe 2dr manual S",
+  "origin": "Asia",
+  "type": "Sports"
+ },
+ {
+  "make": "Ford",
+  "model": "Focus LX 4dr",
+  "origin": "USA",
+  "type": "Sedan"
+ },
+ {
+  "make": "Mazda",
+  "model": "Mazda3 i 4dr",
+  "origin": "Asia",
+  "type": "Sedan"
+ },
+ {
+  "make": "Nissan",
+  "model": "Quest S",
+  "origin": "Asia",
+  "type": "Sedan"
+ },
+ {
+  "make": "Ford",
+  "model": "Excursion 6.8 XLT",
+  "origin": "USA",
+  "type": "SUV"
+ },
+ {
+  "make": "Pontiac",
+  "model": "Grand Prix GT2 4dr",
+  "origin": "USA",
+  "type": "Sedan"
+ },
+ {
+  "make": "Volvo",
+  "model": "S60 T5 4dr",
+  "origin": "Europe",
+  "type": "Sedan"
+ },
+ {
+  "make": "Ford",
+  "model": "Focus ZTW",
+  "origin": "USA",
+  "type": "Wagon"
+ },
+ {
+  "make": "Toyota",
+  "model": "Prius 4dr (gas/electric)",
+  "origin": "Asia",
+  "type": "Hybrid"
+ },
+ {
+  "make": "Nissan",
+  "model": "Xterra XE V6",
+  "origin": "Asia",
+  "type": "SUV"
+ },
+ {
+  "make": "Mercury",
+  "model": "Sable LS Premium 4dr",
+  "origin": "USA",
+  "type": "Sedan"
+ },
+ {
+  "make": "Volkswagen",
+  "model": "Golf GLS 4dr",
+  "origin": "Europe",
+  "type": "Sedan"
+ },
+ {
+  "make": "BMW",
+  "model": "330Ci 2dr",
+  "origin": "Europe",
+  "type": "Sedan"
+ },
+ {
+  "make": "Subaru",
+  "model": "Legacy GT 4dr",
+  "origin": "Asia",
+  "type": "Sedan"
+ },
+ {
+  "make": "Saab",
+  "model": "9-3 Arc convertible 2dr",
+  "origin": "Europe",
+  "type": "Sedan"
+ },
+ {
+  "make": "Nissan",
+  "model": "Frontier King Cab XE V6",
+  "origin": "Asia",
+  "type": "Truck"
+ },
+ {
+  "make": "Ford",
+  "model": "F-150 Supercab Lariat",
+  "origin": "USA",
+  "type": "Truck"
+ },
+ {
+  "make": "Volkswagen",
+  "model": "Touareg V6",
+  "origin": "Europe",
+  "type": "SUV"
+ },
+ {
+  "make": "Mercedes-Benz",
+  "model": "C320 4dr",
+  "origin": "Europe",
+  "type": "Sedan"
+ },
+ {
+  "make": "Volvo",
+  "model": "XC70",
+  "origin": "Europe",
+  "type": "Wagon"
+ },
+ {
+  "make": "Mazda",
+  "model": "RX-8 4dr manual",
+  "origin": "Asia",
+  "type": "Sports"
+ },
+ {
+  "make": "Volkswagen",
+  "model": "Passat W8",
+  "origin": "Europe",
+  "type": "Wagon"
+ },
+ {
+  "make": "Chevrolet",
+  "model": "Corvette 2dr",
+  "origin": "USA",
+  "type": "Sports"
+ },
+ {
+  "make": "Pontiac",
+  "model": "GTO 2dr",
+  "origin": "USA",
+  "type": "Sports"
+ },
+ {
+  "make": "Mitsubishi",
+  "model": "Diamante LS 4dr",
+  "origin": "Asia",
+  "type": "Sedan"
+ },
+ {
+  "make": "Ford",
+  "model": "Taurus SE",
+  "origin": "USA",
+  "type": "Wagon"
+ },
+ {
+  "make": "Dodge",
+  "model": "Grand Caravan SXT",
+  "origin": "USA",
+  "type": "Sedan"
+ },
+ {
+  "make": "Mercedes-Benz",
+  "model": "E500",
+  "origin": "Europe",
+  "type": "Wagon"
+ },
+ {
+  "make": "Volvo",
+  "model": "S80 2.5T 4dr",
+  "origin": "Europe",
+  "type": "Sedan"
+ },
+ {
+  "make": "Kia",
+  "model": "Spectra GSX 4dr hatch",
+  "origin": "Asia",
+  "type": "Sedan"
+ },
+ {
+  "make": "Oldsmobile",
+  "model": "Alero GX 2dr",
+  "origin": "USA",
+  "type": "Sedan"
+ },
+ {
+  "make": "Volkswagen",
+  "model": "Jetta GLI VR6 4dr",
+  "origin": "Europe",
+  "type": "Sedan"
+ },
+ {
+  "make": "Suzuki",
+  "model": "Aerio SX",
+  "origin": "Asia",
+  "type": "Wagon"
+ },
+ {
+  "make": "Chevrolet",
+  "model": "Cavalier 2dr",
+  "origin": "USA",
+  "type": "Sedan"
+ },
+ {
+  "make": "Jaguar",
+  "model": "Vanden Plas 4dr",
+  "origin": "Europe",
+  "type": "Sedan"
+ },
+ {
+  "make": "Jaguar",
+  "model": "XJR 4dr",
+  "origin": "Europe",
+  "type": "Sedan"
+ },
+ {
+  "make": "Infiniti",
+  "model": "M45 4dr",
+  "origin": "Asia",
+  "type": "Sedan"
+ },
+ {
+  "make": "GMC",
+  "model": "Yukon 1500 SLE",
+  "origin": "USA",
+  "type": "SUV"
+ },
+ {
+  "make": "BMW",
+  "model": "330xi 4dr",
+  "origin": "Europe",
+  "type": "Sedan"
+ },
+ {
+  "make": "Honda",
+  "model": "Accord LX 2dr",
+  "origin": "Asia",
+  "type": "Sedan"
+ },
+ {
+  "make": "BMW",
+  "model": "Z4 convertible 3.0i 2dr",
+  "origin": "Europe",
+  "type": "Sports"
+ },
+ {
+  "make": "Infiniti",
+  "model": "FX45",
+  "origin": "Asia",
+  "type": "Wagon"
+ },
+ {
+  "make": "Mercury",
+  "model": "Mountaineer",
+  "origin": "USA",
+  "type": "SUV"
+ },
+ {
+  "make": "Suzuki",
+  "model": "Forenza S 4dr",
+  "origin": "Asia",
+  "type": "Sedan"
+ },
+ {
+  "make": "Pontiac",
+  "model": "Sunfire 1SC 2dr",
+  "origin": "USA",
+  "type": "Sedan"
+ },
+ {
+  "make": "Pontiac",
+  "model": "Montana EWB",
+  "origin": "USA",
+  "type": "Sedan"
+ },
+ {
+  "make": "Mercury",
+  "model": "Sable GS 4dr",
+  "origin": "USA",
+  "type": "Sedan"
+ },
+ {
+  "make": "Mercedes-Benz",
+  "model": "SLK32 AMG 2dr",
+  "origin": "Europe",
+  "type": "Sports"
+ },
+ {
+  "make": "Buick",
+  "model": "Park Avenue 4dr",
+  "origin": "USA",
+  "type": "Sedan"
+ },
+ {
+  "make": "Subaru",
+  "model": "Outback H6 4dr",
+  "origin": "Asia",
+  "type": "Sedan"
+ },
+ {
+  "make": "Honda",
+  "model": "Insight 2dr (gas/electric)",
+  "origin": "Asia",
+  "type": "Hybrid"
+ },
+ {
+  "make": "Ford",
+  "model": "Ranger 2.3 XL Regular Cab",
+  "origin": "USA",
+  "type": "Truck"
+ },
+ {
+  "make": "Scion",
+  "model": "xA 4dr hatch",
+  "origin": "Asia",
+  "type": "Sedan"
+ },
+ {
+  "make": "Volvo",
+  "model": "C70 LPT convertible 2dr",
+  "origin": "Europe",
+  "type": "Sedan"
+ },
+ {
+  "make": "Toyota",
+  "model": "Corolla CE 4dr",
+  "origin": "Asia",
+  "type": "Sedan"
+ },
+ {
+  "make": "Ford",
+  "model": "Focus SE 4dr",
+  "origin": "USA",
+  "type": "Sedan"
+ },
+ {
+  "make": "Chevrolet",
+  "model": "Venture LS",
+  "origin": "USA",
+  "type": "Sedan"
+ },
+ {
+  "make": "Chrysler",
+  "model": "Town and Country LX",
+  "origin": "USA",
+  "type": "Sedan"
+ },
+ {
+  "make": "Buick",
+  "model": "Rainier",
+  "origin": "USA",
+  "type": "SUV"
+ },
+ {
+  "make": "Nissan",
+  "model": "Sentra 1.8 4dr",
+  "origin": "Asia",
+  "type": "Sedan"
+ },
+ {
+  "make": "Toyota",
+  "model": "Echo 2dr manual",
+  "origin": "Asia",
+  "type": "Sedan"
+ },
+ {
+  "make": "Mercedes-Benz",
+  "model": "SL55 AMG 2dr",
+  "origin": "Europe",
+  "type": "Sports"
+ },
+ {
+  "make": "Cadillac",
+  "model": "Deville 4dr",
+  "origin": "USA",
+  "type": "Sedan"
+ },
+ {
+  "make": "BMW",
+  "model": "525i 4dr",
+  "origin": "Europe",
+  "type": "Sedan"
+ },
+ {
+  "make": "Audi",
+  "model": "A4 3.0 convertible 2dr",
+  "origin": "Europe",
+  "type": "Sedan"
+ },
+ {
+  "make": "Mercedes-Benz",
+  "model": "SLK230 convertible 2dr",
+  "origin": "Europe",
+  "type": "Sports"
+ },
+ {
+  "make": "Chevrolet",
+  "model": "Monte Carlo LS 2dr",
+  "origin": "USA",
+  "type": "Sedan"
+ },
+ {
+  "make": "Mitsubishi",
+  "model": "Montero XLS",
+  "origin": "Asia",
+  "type": "SUV"
+ },
+ {
+  "make": "Chevrolet",
+  "model": "Suburban 1500 LT",
+  "origin": "USA",
+  "type": "SUV"
+ },
+ {
+  "make": "Ford",
+  "model": "Crown Victoria 4dr",
+  "origin": "USA",
+  "type": "Sedan"
+ },
+ {
+  "make": "Mazda",
+  "model": "MX-5 Miata LS convertible 2dr",
+  "origin": "Asia",
+  "type": "Sports"
+ },
+ {
+  "make": "Audi",
+  "model": "TT 1.8 Quattro 2dr (convertible)",
+  "origin": "Europe",
+  "type": "Sports"
+ },
+ {
+  "make": "Mitsubishi",
+  "model": "Lancer Evolution 4dr",
+  "origin": "Asia",
+  "type": "Sports"
+ },
+ {
+  "make": "Mercedes-Benz",
+  "model": "SL600 convertible 2dr",
+  "origin": "Europe",
+  "type": "Sports"
+ },
+ {
+  "make": "Dodge",
+  "model": "Dakota Club Cab",
+  "origin": "USA",
+  "type": "Truck"
+ },
+ {
+  "make": "Lincoln",
+  "model": "Aviator Ultimate",
+  "origin": "USA",
+  "type": "SUV"
+ },
+ {
+  "make": "GMC",
+  "model": "Sierra Extended Cab 1500",
+  "origin": "USA",
+  "type": "Truck"
+ },
+ {
+  "make": "Mitsubishi",
+  "model": "Galant ES 2.4L 4dr",
+  "origin": "Asia",
+  "type": "Sedan"
+ },
+ {
+  "make": "Ford",
+  "model": "Focus SVT 2dr",
+  "origin": "USA",
+  "type": "Sedan"
+ },
+ {
+  "make": "Saab",
+  "model": "9-3 Arc Sport 4dr",
+  "origin": "Europe",
+  "type": "Sedan"
+ },
+ {
+  "make": "Honda",
+  "model": "Civic DX 2dr",
+  "origin": "Asia",
+  "type": "Sedan"
+ },
+ {
+  "make": "BMW",
+  "model": "325xi 4dr",
+  "origin": "Europe",
+  "type": "Sedan"
+ },
+ {
+  "make": "Ford",
+  "model": "Expedition 4.6 XLT",
+  "origin": "USA",
+  "type": "SUV"
+ },
+ {
+  "make": "Pontiac",
+  "model": "Montana",
+  "origin": "USA",
+  "type": "Sedan"
+ },
+ {
+  "make": "Porsche",
+  "model": "911 Carrera 4S coupe 2dr (convert)",
+  "origin": "Europe",
+  "type": "Sports"
+ },
+ {
+  "make": "Hyundai",
+  "model": "Elantra GT 4dr",
+  "origin": "Asia",
+  "type": "Sedan"
+ },
+ {
+  "make": "Nissan",
+  "model": "Quest SE",
+  "origin": "Asia",
+  "type": "Sedan"
+ },
+ {
+  "make": "Ford",
+  "model": "Focus ZX5 5dr",
+  "origin": "USA",
+  "type": "Sedan"
+ },
+ {
+  "make": "Chevrolet",
+  "model": "Cavalier LS 2dr",
+  "origin": "USA",
+  "type": "Sedan"
+ },
+ {
+  "make": "BMW",
+  "model": "M3 coupe 2dr",
+  "origin": "Europe",
+  "type": "Sports"
+ },
+ {
+  "make": "Volkswagen",
+  "model": "Phaeton W12 4dr",
+  "origin": "Europe",
+  "type": "Sedan"
+ },
+ {
+  "make": "Toyota",
+  "model": "Echo 2dr auto",
+  "origin": "Asia",
+  "type": "Sedan"
+ },
+ {
+  "make": "Hyundai",
+  "model": "XG350 L 4dr",
+  "origin": "Asia",
+  "type": "Sedan"
+ },
+ {
+  "make": "Cadillac",
+  "model": "Escalade EXT",
+  "origin": "USA",
+  "type": "Truck"
+ },
+ {
+  "make": "Nissan",
+  "model": "350Z coupe 2dr",
+  "origin": "Asia",
+  "type": "Sports"
+ },
+ {
+  "make": "Land Rover",
+  "model": "Discovery SE",
+  "origin": "Europe",
+  "type": "SUV"
+ },
+ {
+  "make": "Audi",
+  "model": "A6 3.0 Quattro 4dr",
+  "origin": "Europe",
+  "type": "Sedan"
+ },
+ {
+  "make": "Chevrolet",
+  "model": "Corvette convertible 2dr",
+  "origin": "USA",
+  "type": "Sports"
+ },
+ {
+  "make": "Audi",
+  "model": "A8 L Quattro 4dr",
+  "origin": "Europe",
+  "type": "Sedan"
+ },
+ {
+  "make": "Chevrolet",
+  "model": "Impala 4dr",
+  "origin": "USA",
+  "type": "Sedan"
+ },
+ {
+  "make": "Jaguar",
+  "model": "XK8 convertible 2dr",
+  "origin": "Europe",
+  "type": "Sports"
+ },
+ {
+  "make": "Volkswagen",
+  "model": "Passat GLS 1.8T",
+  "origin": "Europe",
+  "type": "Wagon"
+ },
+ {
+  "make": "Toyota",
+  "model": "Tundra Regular Cab V6",
+  "origin": "Asia",
+  "type": "Truck"
+ },
+ {
+  "make": "Lincoln",
+  "model": "LS V8 Sport 4dr",
+  "origin": "USA",
+  "type": "Sedan"
+ },
+ {
+  "make": "Volkswagen",
+  "model": "Passat GLS 4dr",
+  "origin": "Europe",
+  "type": "Sedan"
+ },
+ {
+  "make": "BMW",
+  "model": "Z4 convertible 2.5i 2dr",
+  "origin": "Europe",
+  "type": "Sports"
+ },
+ {
+  "make": "Lincoln",
+  "model": "LS V6 Luxury 4dr",
+  "origin": "USA",
+  "type": "Sedan"
+ },
+ {
+  "make": "Mercury",
+  "model": "Grand Marquis LS Premium 4dr",
+  "origin": "USA",
+  "type": "Sedan"
+ },
+ {
+  "make": "Lexus",
+  "model": "RX 330",
+  "origin": "Asia",
+  "type": "SUV"
+ },
+ {
+  "make": "Nissan",
+  "model": "350Z Enthusiast convertible 2dr",
+  "origin": "Asia",
+  "type": "Sports"
+ },
+ {
+  "make": "Nissan",
+  "model": "Sentra 1.8 S 4dr",
+  "origin": "Asia",
+  "type": "Sedan"
+ },
+ {
+  "make": "BMW",
+  "model": "X3 3.0i",
+  "origin": "Europe",
+  "type": "SUV"
+ },
+ {
+  "make": "GMC",
+  "model": "Safari SLE",
+  "origin": "USA",
+  "type": "Sedan"
+ },
+ {
+  "make": "Chevrolet",
+  "model": "Avalanche 1500",
+  "origin": "USA",
+  "type": "Truck"
+ },
+ {
+  "make": "Chrysler",
+  "model": "Pacifica",
+  "origin": "USA",
+  "type": "Wagon"
+ },
+ {
+  "make": "Porsche",
+  "model": "911 GT2 2dr",
+  "origin": "Europe",
+  "type": "Sports"
+ },
+ {
+  "make": "Cadillac",
+  "model": "XLR convertible 2dr",
+  "origin": "USA",
+  "type": "Sports"
+ },
+ {
+  "make": "Buick",
+  "model": "Century Custom 4dr",
+  "origin": "USA",
+  "type": "Sedan"
+ },
+ {
+  "make": "Saab",
+  "model": "9-3 Aero 4dr",
+  "origin": "Europe",
+  "type": "Sedan"
+ },
+ {
+  "make": "Honda",
+  "model": "Civic Si 2dr hatch",
+  "origin": "Asia",
+  "type": "Sedan"
+ },
+ {
+  "make": "Toyota",
+  "model": "Sienna XLE Limited",
+  "origin": "Asia",
+  "type": "Sedan"
+ },
+ {
+  "make": "Audi",
+  "model": "RS 6 4dr",
+  "origin": "Europe",
+  "type": "Sports"
+ },
+ {
+  "make": "Chevrolet",
+  "model": "Malibu LS 4dr",
+  "origin": "USA",
+  "type": "Sedan"
+ },
+ {
+  "make": "Mercedes-Benz",
+  "model": "C320 Sport 4dr",
+  "origin": "Europe",
+  "type": "Sedan"
+ },
+ {
+  "make": "Porsche",
+  "model": "911 Targa coupe 2dr",
+  "origin": "Europe",
+  "type": "Sports"
+ },
+ {
+  "make": "Chrysler",
+  "model": "300M Special Edition 4dr",
+  "origin": "USA",
+  "type": "Sedan"
+ },
+ {
+  "make": "Audi",
+  "model": "S4 Avant Quattro",
+  "origin": "Europe",
+  "type": "Wagon"
+ },
+ {
+  "make": "Subaru",
+  "model": "Impreza 2.5 RS 4dr",
+  "origin": "Asia",
+  "type": "Sedan"
+ },
+ {
+  "make": "Lexus",
+  "model": "GS 430 4dr",
+  "origin": "Asia",
+  "type": "Sedan"
+ },
+ {
+  "make": "Nissan",
+  "model": "Maxima SL 4dr",
+  "origin": "Asia",
+  "type": "Sedan"
+ },
+ {
+  "make": "Ford",
+  "model": "F-150 Regular Cab XL",
+  "origin": "USA",
+  "type": "Truck"
+ },
+ {
+  "make": "Chevrolet",
+  "model": "Malibu 4dr",
+  "origin": "USA",
+  "type": "Sedan"
+ },
+ {
+  "make": "Toyota",
+  "model": "Celica GT-S 2dr",
+  "origin": "Asia",
+  "type": "Sports"
+ },
+ {
+  "make": "Audi",
+  "model": "A4 3.0 4dr",
+  "origin": "Europe",
+  "type": "Sedan"
+ },
+ {
+  "make": "Suzuki",
+  "model": "Vitara LX",
+  "origin": "Asia",
+  "type": "SUV"
+ },
+ {
+  "make": "Audi",
+  "model": "A6 4.2 Quattro 4dr",
+  "origin": "Europe",
+  "type": "Sedan"
+ },
+ {
+  "make": "Mazda",
+  "model": "MX-5 Miata convertible 2dr",
+  "origin": "Asia",
+  "type": "Sports"
+ },
+ {
+  "make": "Acura",
+  "model": "TL 4dr",
+  "origin": "Asia",
+  "type": "Sedan"
+ },
+ {
+  "make": "Chrysler",
+  "model": "Sebring 4dr",
+  "origin": "USA",
+  "type": "Sedan"
+ },
+ {
+  "make": "Chrysler",
+  "model": "Sebring Limited convertible 2dr",
+  "origin": "USA",
+  "type": "Sedan"
+ },
+ {
+  "make": "Suzuki",
+  "model": "Forenza EX 4dr",
+  "origin": "Asia",
+  "type": "Sedan"
+ },
+ {
+  "make": "Chrysler",
+  "model": "Crossfire 2dr",
+  "origin": "USA",
+  "type": "Sports"
+ },
+ {
+  "make": "Volvo",
+  "model": "S80 2.9 4dr",
+  "origin": "Europe",
+  "type": "Sedan"
+ },
+ {
+  "make": "Volvo",
+  "model": "S40 4dr",
+  "origin": "Europe",
+  "type": "Sedan"
+ },
+ {
+  "make": "Lexus",
+  "model": "ES 330 4dr",
+  "origin": "Asia",
+  "type": "Sedan"
+ }
+]
