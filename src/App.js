@@ -3,7 +3,7 @@ import './App.css';
 
 import cars from "./cars.json";
 
-import CarList from './CarList';
+import FilterableCarList from './FilterableCarList';
 
 
 function App() {
@@ -13,7 +13,7 @@ function App() {
         <p>There are {cars.length} cars in the data.</p>
 
 
-        <CarList cars={cars} />
+        <FilterableCarList cars={cars} />
       </div>
   );
 }
