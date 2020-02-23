@@ -7,6 +7,28 @@ import FilterableCarList from './FilterableCarList';
 
 
 function App() {
+
+    // Sort cars alphabetically by Make then Model
+    const sortedCars = cars.sort(function(a, b){
+        // If makes are equal, sort by model
+        if(a.make < b.make){
+            return -1;
+        } else if (a.make > b.make){
+            return 1;
+        } else {
+            // Make's must be equal, sort by model
+            if(a.model < b.model){
+                return -1;
+            }
+            if(a.model > b.model){
+                return 1;
+            }
+        }
+        
+        // Makes and models are both equal, so no sort order
+        return 0;
+    });
+
   return (
       <div className="App">
         <header>
@@ -16,7 +38,7 @@ function App() {
             <p>There are {cars.length} cars in the data.</p>
 
 
-            <FilterableCarList cars={cars} />
+            <FilterableCarList cars={sortedCars} />
         </main>
       </div>
   );
