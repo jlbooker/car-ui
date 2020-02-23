@@ -28,6 +28,8 @@ function FilterableCarList(props) {
             </form>
 
             <CarList cars={filteredCars} />
+
+            <button onClick={() => setFilterText('')}>Clear Filter</button>
         </div>
     )
 }
