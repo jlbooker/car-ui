@@ -17,7 +17,8 @@
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
-    "extends": "react-app"
+    "plugins": ["jsx-a11y"],
+    "extends": ["react-app", "plugin:jsx-a11y/recommended"]
   },
   "browserslist": {
     "production": [
@@ -30,5 +31,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "react-axe": "^3.4.1"
   }
 }

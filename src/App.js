@@ -9,11 +9,15 @@ import FilterableCarList from './FilterableCarList';
 function App() {
   return (
       <div className="App">
+        <header>
         <h1>SAS Web UI Developer Project</h1>
-        <p>There are {cars.length} cars in the data.</p>
+        </header>
+        <main role="main">
+            <p>There are {cars.length} cars in the data.</p>
 
 
-        <FilterableCarList cars={cars} />
+            <FilterableCarList cars={cars} />
+        </main>
       </div>
   );
 }

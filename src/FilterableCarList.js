@@ -22,6 +22,8 @@ function FilterableCarList(props) {
                 <input type="text" id="filter-text-box"
                     onChange={e => setFilterText(e.target.value)}
                     value={filterText}
+                    placeholder="Make, model, brand, or origin"
+                    aria-placeholder="filter list by entering the car's make, model, brand, or origin"
                 />
             </form>
 
