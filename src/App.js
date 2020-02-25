@@ -5,7 +5,9 @@ import cars from "./cars.json";
 
 import FilterableCarList from './FilterableCarList';
 
-
+/**
+ * Main application component, handles top-level markup
+ */
 function App() {
 
     // Sort cars alphabetically by Make then Model
@@ -24,10 +26,13 @@ function App() {
                 return 1;
             }
         }
-        
+
         // Makes and models are both equal, so no sort order
         return 0;
     });
+
+    // TODO: Create individual car description strings all at once and save them
+    // for later searching and display.
 
   return (
       <div className="App">

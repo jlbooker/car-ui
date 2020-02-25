@@ -1,5 +1,6 @@
 import React from 'react';
 
+// Handle up/down arrow keys for keyboard navigation of list items
 function handleKeyPress(e){
     if(e.key === 'ArrowDown'){
         e.preventDefault();
@@ -19,6 +20,7 @@ function handleKeyPress(e){
     }
 }
 
+// An individual car
 function Car(props) {
 
     return (

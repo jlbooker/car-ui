@@ -2,6 +2,10 @@ import React, {useState} from 'react';
 
 import CarList from './CarList';
 
+/**
+ * A Filterable Car list
+ * Adds filtering functionality to a regular CarList component
+ */
 function FilterableCarList(props) {
 
     const [filterText, setFilterText] = useState('');
@@ -24,8 +28,11 @@ function FilterableCarList(props) {
                     value={filterText}
                     placeholder="Make, model, brand, or origin"
                     aria-placeholder="filter list by entering the car's make, model, brand, or origin"
+                    aria-controls="car-list"
                 />
             </form>
+
+            <p aria-live="polite">{filteredCars.length} results</p>
 
             <CarList cars={filteredCars} />
 
