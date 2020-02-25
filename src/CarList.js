@@ -2,6 +2,9 @@ import React from 'react';
 
 import Car from './Car.js';
 
+/**
+ * Simple car list component. Creates an un-ordered list of the cars given.
+ */
 function CarList(props) {
 
     const carListItems = props.cars.map((car) =>
@@ -16,19 +19,19 @@ function CarList(props) {
     let carList = '';
     if(props.cars.length > 0) {
         carList = (
-            <ul>
+            <ul id="car-list">
                 {carListItems}
             </ul>
         );
     } else {
         carList = (
-            <p>No cars in list.</p>
+            <p tabindex="0">No cars in list.</p>
         );
     }
 
     return (
         <div>
-            <p>List of Cars</p>
+            <h2>List of Cars</h2>
             {carList}
         </div>
     );
