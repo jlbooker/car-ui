@@ -1,6 +1,12 @@
 ## Sample React Car UI project
 
-Features Implemented
+### Setup Instructions
+1. Clone this repo and change into the directory
+2. `npm install`
+3. `npm start` will build the app in dev mode, start a local server, and open the app in a new browser tab
+3. `npm test` is availble with a few basic tests
+
+### Features Implemented
 - [x] Display list of each car entry with make and model (`ul` and `li` elements)
 - [x] Filter entries as user types in the filter text box
 - [x] Clear/reset filter button below the list
