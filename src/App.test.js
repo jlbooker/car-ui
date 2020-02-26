@@ -2,8 +2,13 @@ import React from 'react';
 import { render } from '@testing-library/react';
 import App from './App';
 
-test('renders learn react link', () => {
-  const { getByText } = render(<App />);
-  const linkElement = getByText(/learn react/i);
-  expect(linkElement).toBeInTheDocument();
+// Basic rendering test
+test('Renders without crashing', () => {
+  const app = render(<App />);
 });
+
+// Displays car count correctly
+
+// Car Renders car description correctly
+
+// Filter text filters list
