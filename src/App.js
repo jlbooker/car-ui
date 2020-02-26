@@ -32,7 +32,7 @@ function App() {
     });
 
     // TODO: Create individual car description strings all at once and save them
-    // for later searching and display.
+    // for later use in searching and display.
 
   return (
       <div className="App">

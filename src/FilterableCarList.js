@@ -3,7 +3,7 @@ import React, {useState} from 'react';
 import CarList from './CarList';
 
 /**
- * A Filterable Car list
+ * FilterableCarList
  * Adds filtering functionality to a regular CarList component
  */
 function FilterableCarList(props) {

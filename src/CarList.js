@@ -3,10 +3,11 @@ import React from 'react';
 import Car from './Car.js';
 
 /**
- * Simple car list component. Creates an un-ordered list of the cars given.
+ * Car list component. Creates an un-ordered list of the cars given via props.
  */
 function CarList(props) {
 
+    // Create array of Car components for each car in dataset.
     const carListItems = props.cars.map((car) =>
         <Car make={car.make}
             model={car.model}
@@ -16,6 +17,8 @@ function CarList(props) {
             />
     );
 
+    // Display the list if there are items available to show, otherwise show
+    // a helpful message.
     let carList = '';
     if(props.cars.length > 0) {
         carList = (
@@ -25,7 +28,7 @@ function CarList(props) {
         );
     } else {
         carList = (
-            <p tabindex="0">No cars in list.</p>
+            <p tabindex="0">There are no cars that match your filter.</p>
         );
     }
 
