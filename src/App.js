@@ -6,13 +6,13 @@ import cars from "./cars.json";
 import FilterableCarList from './FilterableCarList';
 
 /**
- * Main application component, handles top-level markup
- */
+* Main application component, handles top-level markup
+*/
 function App() {
 
     // Sort cars alphabetically by Make then Model
+    // TODO: Refactor this to its own function and add a test for it
     const sortedCars = cars.sort(function(a, b){
-        // If makes are equal, sort by model
         if(a.make < b.make){
             return -1;
         } else if (a.make > b.make){
@@ -34,19 +34,19 @@ function App() {
     // TODO: Create individual car description strings all at once and save them
     // for later use in searching and display.
 
-  return (
-      <div className="App">
-        <header>
-        <h1>SAS Web UI Developer Project</h1>
-        </header>
-        <main role="main">
-            <p>There are {cars.length} cars in the data.</p>
+    return (
+        <div className="App">
+            <header>
+                <h1>SAS Web UI Developer Project</h1>
+            </header>
+            <main role="main">
+                <p>There are {cars.length} cars in the data.</p>
 
 
-            <FilterableCarList cars={sortedCars} />
-        </main>
-      </div>
-  );
+                <FilterableCarList cars={sortedCars} />
+            </main>
+        </div>
+    );
 }
 
 export default App;
